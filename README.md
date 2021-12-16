@@ -198,7 +198,7 @@ client.on("message", async message => {
       size: 1024
     });
 
-    avatar = await editor.resize({
+    avatar = await editor.resizeImage({
       image: avatar,
       width: width,
       height: height

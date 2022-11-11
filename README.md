@@ -451,4 +451,4 @@ functions and its options.
 >
 > ```
 
-Thanks for using it ❤️.
+# Thanks for using it ❤️. [Support](https://discord.gg/maxSPHjvaw).
